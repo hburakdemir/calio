@@ -1,4 +1,4 @@
-# Kanban
+# Calio
 
 Takımlar için Kanban görev yönetim uygulaması. Windows ve macOS destekler.
 
@@ -6,9 +6,9 @@ Takımlar için Kanban görev yönetim uygulaması. Windows ve macOS destekler.
 
 | Platform | İndir |
 |---|---|
-| Windows (64-bit) | [kanban-setup.exe](https://github.com/hburakdemir/kanban-releases/releases/latest/download/kanban-setup.exe) |
-| macOS Apple Silicon (M1 / M2 / M3) | [kanban-arm64.dmg](https://github.com/hburakdemir/kanban-releases/releases/latest/download/kanban-arm64.dmg) |
-| macOS Intel | [kanban-x64.dmg](https://github.com/hburakdemir/kanban-releases/releases/latest/download/kanban-x64.dmg) |
+| Windows (64-bit) | [calio-setup.exe](https://github.com/hburakdemir/calio/releases/latest/download/calio-setup.exe) |
+| macOS Apple Silicon (M1 / M2 / M3) | [calio-arm64.dmg](https://github.com/hburakdemir/calio/releases/latest/download/calio-arm64.dmg) |
+| macOS Intel | [calio-x64.dmg](https://github.com/hburakdemir/calio/releases/latest/download/calio-x64.dmg) |
 
 ## Kurulum
 
@@ -16,8 +16,8 @@ Takımlar için Kanban görev yönetim uygulaması. Windows ve macOS destekler.
 2. İlk açılışta sunucu IP adresini gir
 3. Hesabınla giriş yap
 
-> Uygulamayı kullanabilmek için ağında çalışan bir **Kanban Server** gereklidir.  
-> Sunucu kurulumu için [kanban-server-releases](https://github.com/hburakdemir/kanban-server-releases) sayfasına bak.
+> Uygulamayı kullanabilmek için ağında çalışan bir **Calio Server** gereklidir.
+> Sunucu kurulumu için [calio-server](https://github.com/hburakdemir/calio-server) sayfasına bak.
 
 ## Güncelleme
 
